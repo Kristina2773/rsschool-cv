@@ -60,4 +60,9 @@ function minutesToMidnight(d){
     + JS
 * HTML Academy
 
+## Languages: 
+1. Russian (native speaker)
+2. English (B1)
+3. Deutch (basic)
+
 
