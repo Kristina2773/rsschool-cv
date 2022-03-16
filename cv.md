@@ -22,3 +22,27 @@ Several years ago, inspired by the people around me, I realized that no one coul
     + responsibility
     + personal time management
 
+## Skills
+
+* JS 
+* HTML 
+* CSS 
+* Python Basic
+* GIT, GITHUB 
+
+
+## Code Example
+### Codewars:
+```
+function minutesToMidnight(d){
+  let next_day = new Date(new Date().setDate(d.getDate() + 1));
+  next_day.setHours(0);
+  next_day.setMinutes(0);
+  next_day.setSeconds(0);
+  let result = Math.round((next_day.getTime() - d.getTime())/1000/60)
+  if (result == 1) {
+    return result + " " + "minute"
+  } else {
+    return result + " " + "minutes"
+  }
+}
