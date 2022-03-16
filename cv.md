@@ -46,3 +46,18 @@ function minutesToMidnight(d){
     return result + " " + "minutes"
   }
 }
+```
+## Work Experience
+ * CV
+ * Eco-sounds 
+ * Sudoku 
+ * Random-quotes
+
+## Education
+* Plekhanov Russian University of Economics
+* Udemy 
+    + HTML, CSS
+    + JS
+* HTML Academy
+
+
